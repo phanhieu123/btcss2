@@ -1,0 +1,11 @@
+ul {
+  list-style: none;
+}
+li {
+  background-color: #cecece;
+  margin-bottom: 50px;
+  padding: 50px;
+}
+li:hover {
+  background-color: gray;
+}
